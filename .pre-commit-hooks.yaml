@@ -1,0 +1,20 @@
+-   id: xml-format
+    name: XML Format
+    entry: xml-format
+    language: python
+    pass_filenames: false
+-   id: csharp-dotnet-format
+    name: C# Dotnet Format
+    entry: csharp-dotnet-format
+    language: python
+    pass_filenames: false
+-   id: csharp-dotnet-test
+    name: C# Dotnet Test
+    entry: csharp-dotnet-test
+    language: python
+    pass_filenames: false
+-   id: npm-run-test
+    name: NPM Run Test
+    entry: npm-run-test
+    language: python
+    pass_filenames: false
